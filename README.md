@@ -1,2 +1,7 @@
-# python-opensource-for-deep-learning
-python-opensource-for-deep-learning
+# 파이선과 오픈소스를 이용한 딥러닝 (180108 ~ 180112, 5일간)
+
+## 1 Day 
+
+- 이성주 강사 (email : seongjoo@codebasic.io)
+- 파이선 3.6이 나온지 10년이나 흘렀다고, 데이터 분석과 딥러닝을 위해서는 64비트로 가는게 맞음.
+
