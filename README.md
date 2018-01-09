@@ -1,8 +1,23 @@
 # 파이선과 오픈소스를 이용한 딥러닝 (180108 ~ 180112, 5일간)
+- 이성주 강사 (email : seongjoo@codebasic.io)
+
+
+## 2 Day
+
+
+
+
+### 딴짓
+모연 강남지점 랩에 재미난게 등장
+http://www.modulabs.co.kr/RL4RWS_free/15898
+
+
+
+
 
 ## 1 Day
 
-- 이성주 강사 (email : seongjoo@codebasic.io)
+
 
 
 ### 파이선 기초
