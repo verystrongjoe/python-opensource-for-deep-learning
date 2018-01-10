@@ -36,9 +36,9 @@ http://earlybird.ai/data_science_free_curriculum/
 http://www.modulabs.co.kr/RL4RWS_free/15898
 정말 소름 1초만에 60배 벌수 있었던..
 https://coinone.co.kr/talk/notice/333/
-
-
-
+https://www.snek.ai/alpha/article/109274
+https://www.snek.ai/alpha/article/109356?utm_campaign=daily_mail&utm_medium=email&utm_source=daily_mail
+http://www.cig2017.com/conference-program/
 
 ## 1 Day
 
