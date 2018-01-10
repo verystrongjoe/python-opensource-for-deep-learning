@@ -2,15 +2,40 @@
 - 이성주 강사 (email : seongjoo@codebasic.io)
 
 
+## 3 Day
+
+Kernel SVM의 Kernel의 역할을 아래 [링크](https://ratsgo.github.io/machine%20learning/2017/05/30/SVM3/)에서 쉽게 확인 가능하며, 예제는 [여기](http://scikit-learn.org/stable/auto_examples/svm/plot_svm_kernels.html)에서 확인 가능합니다!
+
+
+### 딴짓
+1. 통계학 기초
+Mit Open Coursewar
+Introduction to Probability and Statistics
+MIT에서 제공하는 기초 통계학 강좌이다. 주로 PDF로 구성되어 있으며 중간중간 퀴즈가 제공된다. 통계학의 핵심적인 내용을 잘 정리해둔 강좌로, Assignment와 Exam에 나온 문제들만 익숙하게 풀 수 있도록 공부하면 앞으로 데이터 사이언스를 공부하는데 든든한 버팀목이 될 것이다.
+
+1-4주차는 기본적인 내용이라 통계학에 익숙한 사람은 넘겨도 되고, 5-8주차는 꼭 한번 풀어볼 것을 권한다. 9주차 이후부터는 Bayesian Inference와 NHST(Null Hypothesis Significance Testing), regression 등 심화내용이 나오는데 여유가 없거나 내용을 따라가기 어렵다면 넘겨도 좋다. 추후에 머신러닝 분야를 깊게 공부하고 싶다면 꼭 짚고 넘어 가보길 바란다.
+
+
+
+2. 선형대수학 기초
+Texas University
+Linear Algebra – Foundations to Frontiers
+통계학과 마찬가지로 선형대수학은 빼놓을 수 없는 필수 과목이다. 위 강좌는 군더더기 없이 필요한 내용만 담았다.
+http://earlybird.ai/data_science_free_curriculum/
+
+4. 검정 및 추정 (확률론)
+우리가 데이터를 분석하는 근본적인 이유는 그 데이터를 바탕으로 새로운 정보를 얻기 위해서이다. 이는 가설 설정과 데이터를 통한 가설 검정이라는 비교적 단순한 과정으로 통해 이루어지는데, 이를 체계적으로 학문화 시킨 것이 Statistical Inference 이다.
+
+
+
+
 ## 2 Day
-
-
-
 
 ### 딴짓
 모연 강남지점 랩에 재미난게 등장
 http://www.modulabs.co.kr/RL4RWS_free/15898
-
+정말 소름 1초만에 60배 벌수 있었던..
+https://coinone.co.kr/talk/notice/333/
 
 
 
