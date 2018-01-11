@@ -2,6 +2,17 @@
 - 이성주 강사 (email : seongjoo@codebasic.io)
 
 
+## 4 Day
+
+Data geeks 사람들에게 동기부여를 시켜주자 책 쓰는것 목표로 한다. [이런 책](http://book.daum.net/detail/book.do?bookid=KOR9788968488184)을 쓰기로..
+
+What is the difference pip and conda?
+Someone said that conda is more likely to close to combination with pip and virtualenv.
+Yes it is close to the right one. We can know that through [the conda's saying](https://stackoverflow.com/questions/20994716/what-is-the-difference-between-pip-and-conda)
+
+
+
+
 ## 3 Day
 
 Kernel SVM의 Kernel의 역할을 아래 [링크](https://ratsgo.github.io/machine%20learning/2017/05/30/SVM3/)에서 쉽게 확인 가능하며, 예제는 [여기](http://scikit-learn.org/stable/auto_examples/svm/plot_svm_kernels.html)에서 확인 가능합니다!
